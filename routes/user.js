@@ -1,12 +1,2 @@
 console.log('test');
 console.log('test2');
-console.log("test3");
-
-
-console.log("test111");
-
-console.log("test112");
-
-console.log("test1111");
-
-console.log("test1112");
